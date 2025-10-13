@@ -38,7 +38,6 @@ The setup integrates:
 | Category | Tools |
 |-----------|--------|
 | PCB Design | Altium 365 |
-| Simulation | NI Multisim, MATLAB/Simulink |
 | Firmware | ESP32 (C/C++) |
 | Testing | Oscilloscope, Logic Analyzer |
 
@@ -56,9 +55,10 @@ Images/ → setup photos, measurement graphs
 
 ## 👨‍🔬 My Contribution
 I was responsible for **end-to-end development**:
-- Designed analog and digital hardware circuits  
+- Designed analog and digital hardware circuits
+- Created PCB layout and validated EMC performance
+- Soldered SMD and THT components
 - Developed firmware for current control and data acquisition  
-- Created PCB layout and validated EMC performance  
 - Documented and tested the final product  
 
 ---
@@ -72,7 +72,6 @@ I was responsible for **end-to-end development**:
 
 ## 🪪 License
 MIT License — feel free to reference or adapt for educational purposes.  
-
 
 ---
 
