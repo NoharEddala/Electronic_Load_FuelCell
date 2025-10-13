@@ -1,11 +1,11 @@
 /*  
- *  Software for the Electronic Load at Stralsund University of Applied Sciences
+ *  Software for the Electronic Load at ThaiGer H2 Racing (Stralsund University of Applied Sciences)
  * As part of a Master thesis entitled:
  * “Development and optimization of an electronic load 
     with built in controls for fuel cell characterization”
  *   
  *  Microcontroller: ESP32-Piko-D4
- *  Creator: Tobias Muth
+ *  Creator: Nohar Chandrakanth Eddala
  *  Version: 2.3.4
  *  Datum: 03.02.2025
  *  Arduino version: 2.3.4 
@@ -904,3 +904,4 @@ void logData(){
   messdaten += "\r\n";
   appendFile(SD, dataname.c_str(), messdaten.c_str());
 }
+
