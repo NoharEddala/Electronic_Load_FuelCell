@@ -22,8 +22,7 @@ The setup integrates:
 - **Communication:** I²C / SPI interfaces for peripheral integration  
 - **Measurement:** Voltage, current, Power and temperature monitoring of fuel cell 
 
-![System Diagram](Images/fuelcell_setup.jpg)  
-*(Example: Replace with your own photo or diagram)*
+<img width="676" height="343" alt="Picture1" src="https://github.com/user-attachments/assets/5c8ff475-b4be-483b-b618-ed364c6df6b9" />
 
 ---
 
@@ -73,7 +72,7 @@ I was responsible for **end-to-end development**:
 
 ## 🪪 License
 MIT License — feel free to reference or adapt for educational purposes.  
-<img width="676" height="343" alt="Picture1" src="https://github.com/user-attachments/assets/5c8ff475-b4be-483b-b618-ed364c6df6b9" />
+
 
 ---
 
