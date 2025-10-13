@@ -1,0 +1,17 @@
+# Ignore build and temp files
+build/
+bin/
+obj/
+.vscode/
+.idea/
+.pio/
+*.o
+*.elf
+*.bin
+*.hex
+*.log
+*.tmp
+__pycache__/
+*.pyc
+*.DS_Store
+Thumbs.db
