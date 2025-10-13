@@ -1,16 +1,16 @@
 # ⚡ Electronic Load for Fuel Cell Characterization
 
 **Goal:**  
-To design and develop an electronic load with integrated digital control for real-time testing of automotive fuel cell stacks up to 160 A.
+To design and develop an electronic load with integrated controls for real-time testing of automotive fuel cell stacks up to 160 A.
 
 ---
 
 ## 🔧 Overview
-This project was developed as part of my Master’s Thesis at **Hochschule Stralsund**.  
+This project was developed as part of my Master’s Thesis at **Thaiger H2 Racing  (Hochschule Stralsund)**.  
 It provides a programmable electronic load system capable of evaluating hydrogen fuel cell stacks under various operating conditions.
 
 The setup integrates:
-- Analog & digital control using ADC/DAC and PWM modules  
+- Designed Analog & digital circuits using ADC/DAC and PWM controls  
 - ESP32 microcontroller for measurement and control  
 - Real-time monitoring of stack performance
 
@@ -20,7 +20,7 @@ The setup integrates:
 - **Hardware:** Multi-layer PCB designed in *Altium 365*, ensuring EMC compliance and signal integrity  
 - **Firmware:** Written in *C/C++* for the ESP32, handling sensor input and digital load control  
 - **Communication:** I²C / SPI interfaces for peripheral integration  
-- **Measurement:** Voltage, current, and temperature monitoring for fuel cell safety  
+- **Measurement:** Voltage, current, Power and temperature monitoring of fuel cell 
 
 ![System Diagram](Images/fuelcell_setup.jpg)  
 *(Example: Replace with your own photo or diagram)*
