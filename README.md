@@ -31,3 +31,4 @@ MIT License (to be added)
 
 ---
 *Developed during Master’s Thesis at Hochschule Stralsund, 2024.*
+[User manual for an electronic load.pdf](https://github.com/user-attachments/files/22879747/User.manual.for.an.electronic.load.pdf)
