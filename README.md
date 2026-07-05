@@ -6,11 +6,12 @@ To design and develop an electronic load with integrated controls for real-time 
 ---
 
 ## 🔧 Overview
-This project was developed as part of my Master’s Thesis at **Thaiger H2 Racing  (Hochschule Stralsund)**.  
+This project was developed as part of my Master’s Thesis at **Institut für Regenerative Energie Systeme (Thaiger H2 Racing)**.  
 It provides a programmable electronic load system capable of evaluating hydrogen fuel cell stacks under various operating conditions.
 
 The setup integrates:
-- Designed Analog & digital circuits using ADC/DAC and PWM controls  
+- Designed Schematics and PCB development in Altium Designer
+- Designed Analog & digital circuits, Power supply circuits, ADC/DAC and PWM control circuits
 - ESP32 microcontroller for measurement and control  
 - Real-time monitoring of stack performance
 
@@ -37,8 +38,8 @@ The setup integrates:
 ## 🛠 Tools & Technologies
 | Category | Tools |
 |-----------|--------|
-| PCB Design | Altium 365 |
-| Firmware | ESP32 (C/C++) |
+| Schematic & PCB Design | Altium Designer |
+| Firmware | Arduino IDE (C/C++) |
 | Testing | Oscilloscope, Logic Analyzer |
 
 ---
